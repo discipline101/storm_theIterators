@@ -1,16 +1,9 @@
-# nexus
+In our recent hackathon project, we developed a comprehensive professional development app. It includes:
 
-A new Flutter project.
+    Career Path Planning: Users can create and navigate their career paths, setting goals and milestones for success.
 
-## Getting Started
+    Interest Committees: Discover and join committees relevant to your profession for networking and discussions.
 
-This project is a starting point for a Flutter application.
+    Course Recommendations: Access personalized course recommendations from platforms like Coursera and Udemy to enhance your skills and knowledge.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our app provides a one-stop solution for career growth, networking, and skill development.
